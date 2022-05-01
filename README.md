@@ -1,4 +1,4 @@
-![hero_img](./Hero_Image.png)
+![hero_img](./Main_Dash.png)
 
 I'm Kegan Propster, A data analyst recently completing The University of Central Florida's bootcamp for data analysis and visualization. I am currently living in central Florida seeking remote work where I can apply my skills. Professionally, I have a passion for puzzles, problem solving and project management. Personally, I'm an avid golfer, excited by new board games and love anything with fur, scales or feathers. Have any questions or a project you want to collab on? shoot me an email @ austen.marden@gmail.com. Stick around and check out some of my recent projects and thanks for coming!
 
