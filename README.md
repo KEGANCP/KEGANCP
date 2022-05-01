@@ -4,11 +4,11 @@ I'm Kegan Propster, A data analyst recently completing The University of Central
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=austenmarden)
 
-<a href="https://github.com/austenmarden/austenmarden">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=austenmarden&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=262D3D" alt="Austen's GitHub Stats" />
+<a href="https://github.com/KEGANCP/KEGANCP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KEGANCP&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=262D3D" alt="Kegan's GitHub Stats" />
 </a>
-<a href="https://github.com/austenmarden/austenmarden">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austenmarden&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=262D3D&langs_count=3" />
+<a href="https://github.com/KEGANCP/KEGANCP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEGANCP&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=262D3D&langs_count=3" />
 </a>
 
 # :toolbox:	Tech & Tools!
@@ -33,7 +33,7 @@ I'm Kegan Propster, A data analyst recently completing The University of Central
   ![](https://img.shields.io/badge/Media-LinkdIn-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Media-Discord-informational?style=flat&logo=discord&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Media-Slack-informational?style=flat&logo=slack&logoColor=white&color=2bbc8a)
-  [![](https://img.shields.io/badge/Contact-Gmail-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)](http://mailto:austen.marden@gmail.com)
+  [![](https://img.shields.io/badge/Contact-Gmail-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)](http://mailto:KEGANCP@yahoo.com)
 
  
 
