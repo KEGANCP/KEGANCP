@@ -2,7 +2,7 @@
   <img src="https://github.com/KEGANCP/KEGANCP/blob/main/Main_Dash.png" alt="HEADER"/>
 </p>
 
-I'm Kegan Propster, A data analyst recently completing The University of Central Florida's bootcamp for data analysis and visualization. I am currently living in central Florida seeking remote work where I can apply my skills. Professionally, I have a passion for puzzles, problem solving and project management. Personally, I'm an avid golfer, excited by new board games and love anything with fur, scales or feathers. Have any questions or a project you want to collab on? shoot me an email at Kegancp@yahoo.com. Stick around and check out some of my recent projects and thanks for coming!
+I'm Kegan Propster, A data analyst recently completing The University of Central Florida's bootcamp for data analysis and visualization. I am currently living in central Florida. Professionally, I have a passion for puzzles, problem solving and project management. Personally, I'm an avid golfer, excited by Tampa Bay big 3 sports teams and enjoy beach days with my French Bulldog. Have any questions or a project you want to collab on? shoot me an email at Kegancp@yahoo.com. Stick around and check out some of my recent projects and thanks for coming!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=austenmarden)
 
